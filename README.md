@@ -1,17 +1,17 @@
 # Master-Thesis-Project
 The scripts I created and worked on for my master thesis project in collaboration with another person.
 
+The **TileChecker script** is used to see if the tower was above grass or road tile to determin the towers functions and visual appearance.
 
+The **TowerSnapToPosition script** is used so the AR tower can only move in increments, from tile to tile and not smoothly around on the device screen.
 
-The RestClientExample script makes everything ready for a request to be sent to Azure Computer
-Vision OCR, making the results from Azure Computer Vision OCR ready to be shown, and showing
-the results in the UI. 
+The **WaveSpawn script** is used to spawn enemies in AR on the AR map that are alinged to the AR map on the screen and give them the path they need to follow.
 
-The RestWebClient script handles the communication to and from Azure
-Computer Vision OCR. 
+The **RestClientExample script** makes everything ready for a request to be sent to Azure OCR Read API, making the results from Azure OCR Read API ready to be shown, and showing the results in the UI. 
 
-The AzureOCRResponse is used to be able to deserialize JSON to objects
-that can be used in unity. 
+The **RestWebClient script** handles the communication from Unity to Azure OCR Read API and back to Unity. 
+
+The **AzureOCRResponse** is used to be able to deserialize JSON to objects that can be used in Unity. 
 
 A flowchart showing how the three scripts are used and how they work can be seen below.
 
