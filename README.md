@@ -1,4 +1,4 @@
-# Master-Thesis-Project
+# Master Thesis Project
 The scripts I created and worked on for my master thesis project in collaboration with another person.
 
 The **TileChecker script** is used to see if the tower was above grass or road tile to determine the tower's functions and visual appearance.
