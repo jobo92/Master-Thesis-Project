@@ -1,11 +1,11 @@
 # Master-Thesis-Project
 The scripts I created and worked on for my master thesis project in collaboration with another person.
 
-The **TileChecker script** is used to see if the tower was above grass or road tile to determin the towers functions and visual appearance.
+The **TileChecker script** is used to see if the tower was above grass or road tile to determine the tower's functions and visual appearance.
 
-The **TowerSnapToPosition script** is used so the AR tower can only move in increments, from tile to tile and not smoothly around on the device screen.
+The **TowerSnapToPosition script** is used so the AR tower can only move in increments, from tile to tile, and thereby not smoothly around on the device screen.
 
-The **WaveSpawn script** is used to spawn enemies in AR on the AR map that are alinged to the AR map on the screen and give them the path they need to follow.
+The **WaveSpawn script** is used to spawn enemies in AR on the AR map that are aligned to the AR map on the screen and give them the path they need to follow.
 
 The **RestClientExample script** makes everything ready for a request to be sent to Azure OCR Read API, making the results from Azure OCR Read API ready to be shown, and showing the results in the UI. 
 
