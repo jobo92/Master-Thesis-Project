@@ -1,5 +1,5 @@
 # Master Thesis Project
-A video showing the final prototype can be seen [here.](https://youtu.be/6ZQFtVdvY7k)
+A **video** showing the final prototype can be seen [here.](https://youtu.be/6ZQFtVdvY7k)
 
 The scripts I created and worked on for my master thesis project in collaboration with another person.
 
